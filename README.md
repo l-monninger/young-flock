@@ -1,5 +1,5 @@
 # young-flock
-`Young Flock` is an experimental intelligence project. 
+`Young Flock` is an experimental intelligence project. It is equal parts learning opportunity and fever dream (more literally than you might expect). 
 
 It is motivated by a fundamental belief that human-beings benefit most greatly from encountering things they do not initially understand.
 

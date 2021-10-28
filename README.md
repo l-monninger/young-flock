@@ -1,5 +1,7 @@
 # young-flock
-`Young Flock` is an experimental intelligence project. It is motivated by a fundamental belief that human-beings benefit most greatly from encountering things they do not initially understand.
+`Young Flock` is an experimental intelligence project. 
+
+It is motivated by a fundamental belief that human-beings benefit most greatly from encountering things they do not initially understand.
 
 The current build of Young Flock is referred to as `Abuk` after the [Dinka first woman and goddess of gardens](https://en.wikipedia.org/wiki/Abuk_(mythology)). It is the first build of the project.
 

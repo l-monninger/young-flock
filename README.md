@@ -14,7 +14,7 @@ The current build of Young Flock is referred to as `Abuk` after the [Dinka first
 5. `Dos` in a `braid` are deemed possible or impossible by an arbitrary constraint, `doughnut`.
 6. `Dos` in a `braid` are applied in cycles, `baals`.
 7. All `dos` in `baal` are resolved by an arbitrary system, `decanter`.
-8. A `decanter` resolves `dos` to `drops`, which must be applied to the `aki`.
+8. A `decanter` resolves `dos` to `drops`, which must be applied as an `aki's` `beway`.
 
 These laws will be frequently supplemented by user defined constraints and values. 
 
